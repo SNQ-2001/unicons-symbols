@@ -1,20 +1,4 @@
-#if os(macOS)
-import AppKit
-import SwiftUI
-
-public extension NSImage {
-    init(uniconsName: unicons) {
-        self.init(named: uniconsName.rawValue)
-    }
-}
-
-public extension Image {
-    init(uniconsName: unicons) {
-        self.init(uniconsName.rawValue, bundle: .module)
-    }
-}
-
-#elseif os(iOS)
+#if os(iOS)
 import UIKit
 import SwiftUI
 
