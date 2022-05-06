@@ -23,7 +23,8 @@ https://zenn.dev/paraches/articles/sm-bundle-module
 **推奨**
 
 重いのが解決するまでは使いたいUnicons Symbolsをダウンロードして使用する事をおすすめします。
-[こちら](https://github.com/SNQ-2001/unicons-symbols/blob/main/unicons)からダウンロードできます。
+
+[こちら](https://taishin-miyamoto.conohawing.com/unicons.zip)からダウンロードできます。
 
 **Swift Package Manager**
 
