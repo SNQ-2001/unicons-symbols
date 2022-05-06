@@ -11,16 +11,20 @@ https://iconscout.com/unicons/explore/line
 - Resourcesファイルに直接SVGを入れる -> 重くなくなったが取得できない
 
 Resourcesファイルに直接SVGを入れるに関してはもしかしたら取得できるかも？
+
 色々試してみたがPNGは取得に成功したがSVGは取得できなかった
 
 **参考**
+
 https://www.enekoalonso.com/articles/displaying-images-in-swiftui-views-from-swift-package-resources
 https://zenn.dev/paraches/articles/sm-bundle-module
 
 ## 使用
 **推奨**
+
 重いのが解決するまでは使いたいUnicons Symbolsをダウンロードして使用する事をおすすめします。
-こちらからダウンロードできます。
+[こちら](https://github.com/SNQ-2001/unicons-symbols/blob/main/unicons)からダウンロードできます。
 
 **Swift Package Manager**
+
 `https://github.com/SNQ-2001/unicons-symbols`
